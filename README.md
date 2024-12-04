@@ -38,15 +38,14 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
+![WhatsApp Image 2024-12-04 at 11 12 35_0b53c030](https://github.com/user-attachments/assets/dc20129a-656d-4750-9170-73e9b6ef90a7)
+![WhatsApp Image 2024-12-04 at 11 12 40_e8dcb288](https://github.com/user-attachments/assets/16132b45-6101-476e-a979-647dfae98745)
+![WhatsApp Image 2024-12-04 at 11 12 46_46497037](https://github.com/user-attachments/assets/4e1db97d-1c03-4be8-a84e-b6deaca9ac7c)
 
-### Name:
-### Register Number:
+
+### Name: Tharun Kumar V
+### Register Number: 24000459
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
